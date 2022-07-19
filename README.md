@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Guneet31
+ 👋 Hi, I am Guneet
 I am a Web and Mobile Application Developer.
-I also develop application for web3.0
-I have worked on Angular, Swift, Nodejs, Express, Solidity
+I like problem solving and building applications
+I have work with the following stack: Angular, Nodejs, HTML, CSS, SCSS, Javascript, GCP, Microsoft Azure, MySQL, Swift
 --->
